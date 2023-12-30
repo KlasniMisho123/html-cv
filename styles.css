@@ -1,0 +1,82 @@
+
+.edu-year
+{
+    position: absolute;
+    margin-left: 700px;
+    font-style: italic;
+}
+
+.vol-year,
+.ach-year {
+    font-style: italic;
+}
+
+.background-div
+{
+    height: 100%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.head-section-div
+{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+    background-color: rgb(62, 10, 110);
+}
+
+img 
+{
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 30px;
+    width: 30px;
+}
+
+
+.email-div 
+{
+    display: flex;
+    margin-left: -130px;
+}
+
+.number-div 
+{
+    display: flex;
+    margin-left: 180px;
+    margin-top: -50px;
+}
+
+.location-div
+{   
+    display: flex;
+    margin-left: -130px;
+}
+
+.github-div {
+    display: flex;
+    margin-left: 180px;
+    margin-top: -50px;
+    
+}
+.github-div a {
+    text-decoration: none;
+    color: #ffffff; 
+}
+
+.profile-div  h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
